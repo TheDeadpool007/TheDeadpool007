@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Deeksha Gandhi P</h1>
 <h3 align="center">A passionate Master's student at CSUF</h3>
 
-- 🔭 I’m currently working on **Android App Development**
+- 🔭 I’m currently working as an **AI/ML Intern**
 
 - 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **iOS App Development**
 
 - 📫 How to reach me **g.deeksha.p@gmail.com**
 
